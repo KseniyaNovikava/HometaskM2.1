@@ -1,1 +1,1 @@
-console.log("Sun is shining");
+console.log("Hello!");
